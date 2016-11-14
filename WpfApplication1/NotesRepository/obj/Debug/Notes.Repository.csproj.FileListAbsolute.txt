@@ -1,0 +1,10 @@
+C:\RA\Project\NotesApp\WpfApplication1\NotesRepository\obj\Debug\Notes.Repository.csprojResolveAssemblyReference.cache
+C:\RA\Project\NotesApp\WpfApplication1\NotesRepository\bin\Debug\NotesRepository.dll.config
+C:\RA\Project\NotesApp\WpfApplication1\NotesRepository\bin\Debug\NotesRepository.dll
+C:\RA\Project\NotesApp\WpfApplication1\NotesRepository\bin\Debug\NotesRepository.pdb
+C:\RA\Project\NotesApp\WpfApplication1\NotesRepository\bin\Debug\EntityFramework.dll
+C:\RA\Project\NotesApp\WpfApplication1\NotesRepository\bin\Debug\NotesData.dll
+C:\RA\Project\NotesApp\WpfApplication1\NotesRepository\bin\Debug\NotesData.pdb
+C:\RA\Project\NotesApp\WpfApplication1\NotesRepository\bin\Debug\EntityFramework.xml
+C:\RA\Project\NotesApp\WpfApplication1\NotesRepository\obj\Debug\NotesRepository.dll
+C:\RA\Project\NotesApp\WpfApplication1\NotesRepository\obj\Debug\NotesRepository.pdb

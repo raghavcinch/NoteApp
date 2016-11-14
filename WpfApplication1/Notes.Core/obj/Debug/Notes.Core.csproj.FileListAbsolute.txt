@@ -1,0 +1,7 @@
+C:\RA\Project\NotesApp\WpfApplication1\Notes.Core\obj\Debug\Notes.Core.csprojResolveAssemblyReference.cache
+C:\RA\Project\NotesApp\WpfApplication1\Notes.Core\bin\Debug\Notes.Core.dll
+C:\RA\Project\NotesApp\WpfApplication1\Notes.Core\bin\Debug\Notes.Core.pdb
+C:\RA\Project\NotesApp\WpfApplication1\Notes.Core\bin\Debug\NotesData.dll
+C:\RA\Project\NotesApp\WpfApplication1\Notes.Core\bin\Debug\NotesData.pdb
+C:\RA\Project\NotesApp\WpfApplication1\Notes.Core\obj\Debug\Notes.Core.dll
+C:\RA\Project\NotesApp\WpfApplication1\Notes.Core\obj\Debug\Notes.Core.pdb

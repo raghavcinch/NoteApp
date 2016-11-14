@@ -1,0 +1,15 @@
+C:\RA\Project\NotesApp\WpfApplication1\Notes.DIContainer\obj\Debug\Notes.DIContainer.csprojResolveAssemblyReference.cache
+C:\RA\Project\NotesApp\WpfApplication1\Notes.DIContainer\bin\Debug\Notes.DIContainer.dll
+C:\RA\Project\NotesApp\WpfApplication1\Notes.DIContainer\bin\Debug\Notes.DIContainer.pdb
+C:\RA\Project\NotesApp\WpfApplication1\Notes.DIContainer\bin\Debug\Ninject.dll
+C:\RA\Project\NotesApp\WpfApplication1\Notes.DIContainer\bin\Debug\Notes.Core.dll
+C:\RA\Project\NotesApp\WpfApplication1\Notes.DIContainer\bin\Debug\NotesData.dll
+C:\RA\Project\NotesApp\WpfApplication1\Notes.DIContainer\bin\Debug\NotesRepository.dll
+C:\RA\Project\NotesApp\WpfApplication1\Notes.DIContainer\bin\Debug\EntityFramework.dll
+C:\RA\Project\NotesApp\WpfApplication1\Notes.DIContainer\bin\Debug\Notes.Core.pdb
+C:\RA\Project\NotesApp\WpfApplication1\Notes.DIContainer\bin\Debug\NotesData.pdb
+C:\RA\Project\NotesApp\WpfApplication1\Notes.DIContainer\bin\Debug\NotesRepository.pdb
+C:\RA\Project\NotesApp\WpfApplication1\Notes.DIContainer\bin\Debug\Ninject.xml
+C:\RA\Project\NotesApp\WpfApplication1\Notes.DIContainer\bin\Debug\EntityFramework.xml
+C:\RA\Project\NotesApp\WpfApplication1\Notes.DIContainer\obj\Debug\Notes.DIContainer.dll
+C:\RA\Project\NotesApp\WpfApplication1\Notes.DIContainer\obj\Debug\Notes.DIContainer.pdb
